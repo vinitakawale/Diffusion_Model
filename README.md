@@ -1,5 +1,7 @@
 # Diffusion_Model
 
+Understanding and optimizing the process of image generation from UNET architecture to Diffusion model 
+
 <img width="462" alt="Screenshot 2024-04-29 at 7 41 07 PM" src="https://github.com/vinitakawale/Diffusion_Model/assets/45771719/e75d9b69-b798-431f-98d1-b93138668ebc">
 
 
